@@ -108,6 +108,24 @@
 ![LiveSplit One](assets/icons/16x16/livesplit-one.png)
 [LiveSplit One](https://one.livesplit.org/)
 
+![OBS Studio](assets/icons/16x16/obs-studio.png)
+[OBS Studio](https://obsproject.com/)
+- Scripts
+  - [Advanced Timer](https://github.com/cg2121/obs-advanced-timer)
+  - [Random Text](https://github.com/revenkroz/obs-random-text)
+- Plugins
+  - [DroidCam](https://github.com/dev47apps/droidcam-obs-plugin)
+  - [OBS-CLI (WebSocket 5.X)](https://pypi.org/project/obs-cli/)
+  - [OBS-CLI (WebSocket 4.X)](https://github.com/muesli/obs-cli)
+  - [Composite Blur](https://github.com/FiniteSingularity/obs-composite-blur)
+  - [LiveSplit One](https://github.com/LiveSplit/obs-livesplit-one)
+  - [MultiRTMP](https://github.com/sorayuki/obs-multi-rtmp)
+  - [Source Record](https://github.com/exeldro/obs-source-record)
+
+![OBS Studio](assets/icons/16x16/obs-studio.png)
+[OBS Studio Forum](https://obsproject.com/forum/)
+
+![Streamlabs Dashboard](assets/icons/16x16/streamlabs.png)
 [Streamlabs Dashboard](https://streamlabs.com/dashboard/)
 
 ## Mail
