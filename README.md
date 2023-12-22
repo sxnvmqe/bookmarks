@@ -2,8 +2,11 @@
 [AI](#ai) |
 [Apple](#apple) |
 [Google](#google) |
+[Live Streaming](#live-streaming) |
+[Live Streaming Tools](#live-streaming-tools) |
 [Mail](#mail) |
-[Microsoft](#microsoft)
+[Microsoft](#microsoft) |
+[Streaming](#streaming)
 
 ## uncategorized! (yet)
 
@@ -25,17 +28,7 @@
 ![X](assets/icons/16x16/x.png)
 [X (Twitter)](https://twitter.com/)
 
-[Kick](https://kick.com/)
-
-[Trovo](https://trovo.live/)
-
-[Twitch](https://twitch.tv/)
-
-[YouTube](https://youtube.com/)
-
 [TikTok](https://tiktok.com/)
-
-[Streamlabs Dashboard](https://streamlabs.com/dashboard/)
 
 [ニコニコ (nicovideo)](https://nicovideo.jp/)
 
@@ -50,21 +43,6 @@
 [Photopea](https://www.photopea.com/)
 
 [4chan](https://4chan.org/)
-
-![Netflix](assets/icons/16x16/netflix.png)
-[Netflix](https://netflix.com/)
-
-![MTV Katsomo](assets/icons/16x16/katsomo.png)
-[MTV Katsomo](https://mtv.fi/)
-
-![Disney+](assets/icons/16x16/disneyplus.png)
-[Disney+](https://disneyplus.com/)
-
-![discovery+](assets/icons/16x16/discoveryplus.png)
-[discovery+](https://discoveryplus.com/)
-
-![LiveSplit One](assets/icons/16x16/livesplit-one.png)
-[LiveSplit One](https://one.livesplit.org/)
 
 ![SDA Forum](assets/icons/16x16/sda-forum.png)
 [SDA Forum](https://forum.speeddemosarchive.com/)
@@ -111,6 +89,23 @@
 
 [Google Translate](https://translate.google.com/)
 
+## Live Streaming
+
+[Kick](https://kick.com/)
+
+[Trovo](https://trovo.live/)
+
+[Twitch](https://twitch.tv/)
+
+[YouTube](https://youtube.com/)
+
+## Live Streaming Tools
+
+![LiveSplit One](assets/icons/16x16/livesplit-one.png)
+[LiveSplit One](https://one.livesplit.org/)
+
+[Streamlabs Dashboard](https://streamlabs.com/dashboard/)
+
 ## Mail
 
 [Gmail](https://mail.google.com/)
@@ -128,3 +123,23 @@
 [Microsoft Account](https://account.microsoft.com/)
 
 [Outlook](https://outlook.live.com/)
+
+## Streaming
+
+![discovery+](assets/icons/16x16/discoveryplus.png)
+[discovery+](https://discoveryplus.com/)
+
+![Disney+](assets/icons/16x16/disneyplus.png)
+[Disney+](https://disneyplus.com/)
+
+![MTV Katsomo](assets/icons/16x16/katsomo.png)
+[MTV Katsomo](https://mtv.fi/)
+
+![Netflix](assets/icons/16x16/netflix.png)
+[Netflix](https://netflix.com/)
+
+![Ruutu](assets/icons/16x16/ruutu.png)
+[Ruutu](https://www.ruutu.fi/)
+
+![Yle Areena](assets/icons/16x16/yle-areena.png)
+[Yle Areena](https://areena.yle.fi/)
