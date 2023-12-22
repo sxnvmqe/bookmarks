@@ -61,22 +61,32 @@
 
 ## AI
 
+![Bard](assets/icons/16x16/bard.png)
 [Bard](https://bard.google.com/chat)
 
+![ChatGPT](assets/icons/16x16/chatgpt.png)
 [ChatGPT](https://chat.openai.com/)
 
+![DALL-E](assets/icons/16x16/dall-e.png)
 [DALL-E](https://labs.openai.com)
 
+![xAI Grok](assets/icons/16x16/xai-grok.png)
 [xAI Grok](https://grok.x.ai/)
 
 ## Apple
 
+![Apple](assets/icons/16x16/apple.png)
 [Apple ID](https://appleid.apple.com/)
 
+![Apple](assets/icons/16x16/apple.png)
 [iCloud](https://icloud.com/)
 
 ## Google
 
+![Bard](assets/icons/16x16/bard.png)
+[Bard](https://bard.google.com/chat)
+
+![Gmail](assets/icons/16x16/gmail.png)
 [Gmail](https://mail.google.com/)
 
 [Google Account](https://myaccount.google.com/)
@@ -95,28 +105,36 @@
 
 ## Live Streaming
 
+![Kick](assets/icons/16x16/kick.png)
 [Kick](https://kick.com/)
 
+![Trovo](assets/icons/16x16/trovo.png)
 [Trovo](https://trovo.live/)
 
+![Twitch](assets/icons/16x16/twitch.png)
 [Twitch](https://twitch.tv/)
 
+![YouTube](assets/icons/16x16/youtube.png)
 [YouTube](https://youtube.com/)
 
 ## Live Streaming Tools
+
+![FrankerFaceZ](assets/icons/16x16/ffz.png)
+[FrankerFaceZ](https://frankerfacez.com/)
 
 ![LiveSplit One](assets/icons/16x16/livesplit-one.png)
 [LiveSplit One](https://one.livesplit.org/)
 
 ![OBS Studio](assets/icons/16x16/obs-studio.png)
 [OBS Studio](https://obsproject.com/)
+- Applications
+  - [OBS-CLI (WebSocket 5.X)](https://pypi.org/project/obs-cli/)
+  - [OBS-CLI (WebSocket 4.X)](https://github.com/muesli/obs-cli)
 - Scripts
   - [Advanced Timer](https://github.com/cg2121/obs-advanced-timer)
   - [Random Text](https://github.com/revenkroz/obs-random-text)
 - Plugins
   - [DroidCam](https://github.com/dev47apps/droidcam-obs-plugin)
-  - [OBS-CLI (WebSocket 5.X)](https://pypi.org/project/obs-cli/)
-  - [OBS-CLI (WebSocket 4.X)](https://github.com/muesli/obs-cli)
   - [Composite Blur](https://github.com/FiniteSingularity/obs-composite-blur)
   - [LiveSplit One](https://github.com/LiveSplit/obs-livesplit-one)
   - [MultiRTMP](https://github.com/sorayuki/obs-multi-rtmp)
@@ -130,20 +148,27 @@
 
 ## Mail
 
+![Gmail](assets/icons/16x16/gmail.png)
 [Gmail](https://mail.google.com/)
 
+![Apple](assets/icons/16x16/apple.png)
 [iCloud](https://icloud.com/)
 
+![Outlook](assets/icons/16x16/outlook.png)
 [Outlook](https://outlook.live.com/)
 
+![Proton](assets/icons/16x16/proton.png)
 [Proton](https://account.proton.me/)
 
+![Temp-Mail](assets/icons/16x16/temp-mail.png)
 [Temp-Mail](https://temp-mail.org/)
 
 ## Microsoft
 
+![Microsoft Account](assets/icons/16x16/microsoft.png)
 [Microsoft Account](https://account.microsoft.com/)
 
+![Outlook](assets/icons/16x16/outlook.png)
 [Outlook](https://outlook.live.com/)
 
 ## Speedrunning
