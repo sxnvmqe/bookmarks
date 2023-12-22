@@ -3,10 +3,10 @@
 [Apple](#apple) |
 [Cloud](#cloud) |
 [Dev](#dev) |
-[Gamedev](#gamedev)
+[Gamedev](#gamedev) |
 [Gaming](#gaming) |
 [Google](#google) |
-[Linux](#linux)
+[Linux](#linux) |
 [Live Streaming](#live-streaming) |
 [Live Streaming Tools](#live-streaming-tools) |
 [Mail](#mail) |
@@ -79,8 +79,10 @@
 
 ![Citra](assets/icons/16x16/citra.png)
 [Citra](https://citra-emu.org/)
-([AppImage](https://github.com/citra-emu/citra-nightly/releases/),
+([Account](https://profile.citra-emu.org/),
+[AppImage](https://github.com/citra-emu/citra-nightly/releases/),
 [Flatpak](https://flathub.org/apps/org.citra_emu.citra),
+[Forum](https://community.citra-emu.org/),
 [Package](https://software.opensuse.org/package/citra),
 [Snap](https://snapcraft.io/citra-emu))
 
@@ -89,15 +91,15 @@
 ([Flatpak](https://flathub.org/apps/ca._0ldsk00l.Nestopia),
 [Package](https://software.opensuse.org/package/nestopia))
 
-![PokeMMO](assets/icons/16x16/pokemmo.png)
-[PokeMMO](https://pokemmo.eu/)
-([Forum](https://forums.pokemmo.com/),
-[Snap](https://snapcraft.io/pokemmo))
-
 ![PokeForce](assets/icons/16x16/pokeforce.png)
 [PokeForce](https://pokeforce.org/)
 ([AppImage](https://forum.pokeforce.org/#downloads.45),
 [Forum](https://forum.pokeforce.org/))
+
+![PokeMMO](assets/icons/16x16/pokemmo.png)
+[PokeMMO](https://pokemmo.eu/)
+([Forum](https://forums.pokemmo.com/),
+[Snap](https://snapcraft.io/pokemmo))
 
 ![Ryijinx](assets/icons/16x16/ryujinx.png)
 [Ryujinx](https://ryujinx.org/)
@@ -110,8 +112,10 @@
 
 ![yuzu](assets/icons/16x16/yuzu.png)
 [yuzu](https://yuzu-emu.org/)
-([AppImage](https://yuzu-emu.org/downloads/#linux),
+([Account](https://profile.yuzu-emu.org/),
+[AppImage](https://yuzu-emu.org/downloads/#linux),
 [Flatpak](https://flathub.org/apps/org.yuzu_emu.yuzu),
+[Forum](https://community.citra-emu.org/),
 [Package](https://software.opensuse.org/package/yuzu),
 [Snap](https://snapcraft.io/yuzu))
 
@@ -119,13 +123,6 @@
 [yuzu EA](https://pineappleea.github.io/)
 ([AppImage](https://github.com/pineappleEA/pineapple-src/releases/),
 [Package](https://software.opensuse.org/package/yuzu-EarlyAccess))
-
-
-
-
-
-![PokeForce Forum](assets/icons/16x16/pokeforce.png)
-[PokeForce Forum](https://forum.pokeforce.org/)
 
 
 
