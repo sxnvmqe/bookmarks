@@ -1,7 +1,11 @@
 # bookmarks
-[create an anchor](#ai)
+[AI](#ai) |
+[Apple](#apple) |
+[Google](#google) |
+[Mail](#mail) |
+[Microsoft](#microsoft)
 
-## uncategorized!
+## uncategorized! (yet)
 
 ![Facebook](assets/icons/16x16/facebook.png)
 [Facebook](https://facebook.com/)
