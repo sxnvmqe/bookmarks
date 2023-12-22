@@ -69,35 +69,6 @@
 ![GitHub](assets/icons/16x16/github.png)
 [GitHub](https://github.com/)
 
-## Emulation
-
-
-![Citra](assets/icons/16x16/citra.png)
-[Citra](https://citra-emu.org/)
-([AppImage](https://github.com/citra-emu/citra-nightly/releases/),
-[Flatpak](https://flathub.org/apps/org.citra_emu.citra))
-
-![Nestopia UE](assets/icons/16x16/nestopia_ue.png)
-[Nestopia UE](http://0ldsk00l.ca/nestopia/)
-([Flatpak](https://flathub.org/apps/ca._0ldsk00l.Nestopia))
-
-![Ryijinx](assets/icons/16x16/ryujinx.png)
-[Ryujinx](https://ryujinx.org/)
-([Flatpak](https://flathub.org/apps/org.ryujinx.Ryujinx))
-
-![Snes9x](assets/icons/16x16/snes9x.png)
-[Snes9x](https://snes9x.com/)
-([Flatpak](https://flathub.org/apps/com.snes9x.Snes9x))
-
-![yuzu](assets/icons/16x16/yuzu.png)
-[yuzu](https://yuzu-emu.org/)
-([AppImage](https://yuzu-emu.org/downloads/#linux),
-[Flatpak](https://flathub.org/apps/org.yuzu_emu.yuzu))
-
-![yuzu_ea](assets/icons/16x16/yuzu_ea.png)
-[yuzu EA](https://pineappleea.github.io/)
-([AppImage](https://github.com/pineappleEA/pineapple-src/releases/))
-
 
 
 ## Gamedev
@@ -106,14 +77,52 @@
 
 ## Gaming
 
+![Citra](assets/icons/16x16/citra.png)
+[Citra](https://citra-emu.org/)
+([AppImage](https://github.com/citra-emu/citra-nightly/releases/),
+[Flatpak](https://flathub.org/apps/org.citra_emu.citra),
+[Package](https://software.opensuse.org/package/citra),
+[Snap](https://snapcraft.io/citra-emu))
+
+![Nestopia UE](assets/icons/16x16/nestopia_ue.png)
+[Nestopia UE](http://0ldsk00l.ca/nestopia/)
+([Flatpak](https://flathub.org/apps/ca._0ldsk00l.Nestopia),
+[Package](https://software.opensuse.org/package/nestopia))
+
 ![PokeMMO](assets/icons/16x16/pokemmo.png)
 [PokeMMO](https://pokemmo.eu/)
-
-![PokeMMOForum](assets/icons/16x16/pokemmo.png)
-[PokeMMO Forum](https://forums.pokemmo.com/)
+([Forum](https://forums.pokemmo.com/),
+[Snap](https://snapcraft.io/pokemmo))
 
 ![PokeForce](assets/icons/16x16/pokeforce.png)
 [PokeForce](https://pokeforce.org/)
+([AppImage](https://forum.pokeforce.org/#downloads.45),
+[Forum](https://forum.pokeforce.org/))
+
+![Ryijinx](assets/icons/16x16/ryujinx.png)
+[Ryujinx](https://ryujinx.org/)
+([Flatpak](https://flathub.org/apps/org.ryujinx.Ryujinx))
+
+![Snes9x](assets/icons/16x16/snes9x.png)
+[Snes9x](https://snes9x.com/)
+([Flatpak](https://flathub.org/apps/com.snes9x.Snes9x),
+[Package](https://software.opensuse.org/package/snes9x))
+
+![yuzu](assets/icons/16x16/yuzu.png)
+[yuzu](https://yuzu-emu.org/)
+([AppImage](https://yuzu-emu.org/downloads/#linux),
+[Flatpak](https://flathub.org/apps/org.yuzu_emu.yuzu),
+[Package](https://software.opensuse.org/package/yuzu),
+[Snap](https://snapcraft.io/yuzu))
+
+![yuzu_ea](assets/icons/16x16/yuzu_ea.png)
+[yuzu EA](https://pineappleea.github.io/)
+([AppImage](https://github.com/pineappleEA/pineapple-src/releases/),
+[Package](https://software.opensuse.org/package/yuzu-EarlyAccess))
+
+
+
+
 
 ![PokeForce Forum](assets/icons/16x16/pokeforce.png)
 [PokeForce Forum](https://forum.pokeforce.org/)
@@ -173,7 +182,7 @@
 
 ![openSUSE](assets/icons/16x16/opensuse.png)
 [openSUSE](https://opensuse.org/)
-
+  - ![openSUSE Package](assets/icons/16x16/opensuse-paste.png) [Package](https://software.opensuse.org/)
   - ![openSUSE Paste](assets/icons/16x16/opensuse-paste.png) [Paste](https://paste.opensuse.org/)
   - ![openSUSE Status](assets/icons/16x16/opensuse-status.png) [Status](https://status.opensuse.org/)
 
