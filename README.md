@@ -6,6 +6,7 @@
 [Live Streaming Tools](#live-streaming-tools) |
 [Mail](#mail) |
 [Microsoft](#microsoft) |
+[Speedrunning](#speedrunning) |
 [Streaming](#streaming)
 
 ## uncategorized! (yet)
@@ -28,29 +29,32 @@
 ![X](assets/icons/16x16/x.png)
 [X (Twitter)](https://twitter.com/)
 
+![TikTok](assets/icons/16x16/tiktok.png)
 [TikTok](https://tiktok.com/)
 
+![ニコニコ (nicovideo](assets/icons/16x16/nicovideo.png)
 [ニコニコ (nicovideo)](https://nicovideo.jp/)
 
+![PokeMMO](assets/icons/16x16/pokemmo.png)
 [PokeMMO](https://pokemmo.eu/)
 
+![PokeMMO](assets/icons/16x16/pokemmo.png)
 [PokeMMO Forum](https://forums.pokemmo.com/)
 
+![PokeForce](assets/icons/16x16/pokeforce.png)
 [PokeForce](https://pokeforce.org)
 
+![PokeForce](assets/icons/16x16/pokeforce.png)
 [PokeForce Forum](https://forum.pokeforce.org/)
 
+![Photopea](assets/icons/16x16/photopea.png)
 [Photopea](https://www.photopea.com/)
 
+![Vectorpea](assets/icons/16x16/vectorpea.png)
+[Vectorpea](https://www.vectorpea.com/)
+
+![4chan](assets/icons/16x16/4chan.png)
 [4chan](https://4chan.org/)
-
-![SDA Forum](assets/icons/16x16/sda-forum.png)
-[SDA Forum](https://forum.speeddemosarchive.com/)
-
-![Speedrun.com](assets/icons/16x16/speedruncom.png)
-[Speedrun.com](https://speedrun.com/)
-
-[SpeedRunsLive](https://speedrunslive.com/)
 
 ![Alphabetizer](assets/icons/16x16/alphabetizer.png)
 [Alphabetizer](https://alphabetizer.flap.tv/)
@@ -123,6 +127,20 @@
 [Microsoft Account](https://account.microsoft.com/)
 
 [Outlook](https://outlook.live.com/)
+
+## Speedrunning
+
+![LiveSplit One](assets/icons/16x16/livesplit-one.png)
+[LiveSplit One](https://one.livesplit.org/)
+
+![SDA Forum](assets/icons/16x16/sda-forum.png)
+[SDA Forum](https://forum.speeddemosarchive.com/)
+
+![Speedrun.com](assets/icons/16x16/speedruncom.png)
+[Speedrun.com](https://speedrun.com/)
+
+![SpeedRunsLive](assets/icons/16x16/speedrunslive.png)
+[SpeedRunsLive](https://speedrunslive.com/)
 
 ## Streaming
 
