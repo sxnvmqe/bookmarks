@@ -83,8 +83,11 @@
 [AppImage](https://github.com/citra-emu/citra-nightly/releases/),
 [Flatpak](https://flathub.org/apps/org.citra_emu.citra),
 [Forum](https://community.citra-emu.org/),
-[Package](https://software.opensuse.org/package/citra),
+[OBS](https://software.opensuse.org/package/citra),
 [Snap](https://snapcraft.io/citra-emu))
+
+![Minecraft](assets/icons/16x16/minecraft.png)
+[Minecraft](https://minecraft.net/)
 
 ![Nestopia UE](assets/icons/16x16/nestopia_ue.png)
 [Nestopia UE](http://0ldsk00l.ca/nestopia/)
@@ -101,6 +104,13 @@
 ([Forum](https://forums.pokemmo.com/),
 [Snap](https://snapcraft.io/pokemmo))
 
+![Prism Launcher](assets/icons/16x16/prismlauncher.png)
+[Prism Launcher](https://prismlauncher.org/)
+([AppImage](https://prismlauncher.org/download/linux/),
+[Flatpak](https://flathub.org/apps/org.prismlauncher.PrismLauncher),
+[OBS](https://software.opensuse.org/search?baseproject=ALL&q=prismlauncher),
+[Package](https://prismlauncher.org/download/linux/#opensuse))
+
 ![Ryijinx](assets/icons/16x16/ryujinx.png)
 [Ryujinx](https://ryujinx.org/)
 ([Flatpak](https://flathub.org/apps/org.ryujinx.Ryujinx))
@@ -116,13 +126,13 @@
 [AppImage](https://yuzu-emu.org/downloads/#linux),
 [Flatpak](https://flathub.org/apps/org.yuzu_emu.yuzu),
 [Forum](https://community.citra-emu.org/),
-[Package](https://software.opensuse.org/package/yuzu),
+[OBS](https://software.opensuse.org/package/yuzu),
 [Snap](https://snapcraft.io/yuzu))
 
 ![yuzu_ea](assets/icons/16x16/yuzu_ea.png)
 [yuzu EA](https://pineappleea.github.io/)
 ([AppImage](https://github.com/pineappleEA/pineapple-src/releases/),
-[Package](https://software.opensuse.org/package/yuzu-EarlyAccess))
+[OBS](https://software.opensuse.org/package/yuzu-EarlyAccess))
 
 
 
@@ -359,6 +369,9 @@
 
 ![Pixel It](assets/icons/16x16/pixel-it.png)
 [Pixel It](https://giventofly.github.io/pixelit/#tryit/)
+
+![terminal.sexy](assets/icons/16x16/terminal-sexy.png)
+[terminal.sexy](https://terminal.sexy/)
 
 ![Vectorpea](assets/icons/16x16/vectorpea.png)
 [Vectorpea](https://www.vectorpea.com/)
